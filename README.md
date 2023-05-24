@@ -12,5 +12,5 @@ movie-web-html-css-js.netlify.app
 ### `screen`
 
 
-![](filmm-sitesi.gif)# film-sitesi
+![](filmm-sitesi.gif)
 
