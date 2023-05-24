@@ -12,8 +12,5 @@
 ### `screen`
 
 
-![](filmm-sitesi.gif)# film-sitesi
-# film-sitesi
-# film-sitesi
-# film-sitesi
-# film-sitesi
+![](filmm-sitesi.gif)
+
