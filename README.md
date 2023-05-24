@@ -5,7 +5,7 @@
   
   
  ### `Deploy`
- <a href= "movie-web-html-css-js.netlify.app"></a>
+ <a href="movie-web-html-css-js.netlify.app" rel="nofollow"> git movie-web-html-css-js.netlify.app</a>
 
 
 
