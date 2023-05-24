@@ -13,7 +13,4 @@ movie-web-html-css-js.netlify.app
 
 
 ![](filmm-sitesi.gif)# film-sitesi
-# film-sitesi
-# film-sitesi
-# film-sitesi
-# film-sitesi
+
